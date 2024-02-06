@@ -1,0 +1,11 @@
+name: idea-league-chalmers
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8.5
+  - jupyter
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
